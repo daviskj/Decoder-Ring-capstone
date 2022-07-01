@@ -1,14 +1,17 @@
 Learning objectives:
+
 This project is designed to test your ability to build complex algorithms. It will also test your ability to write unit tests with Mocha and Chai to test your algorithms. You will not need to make any edits to HTML or CSS for this project. Before taking on this project, you should be comfortable with the learning objectives listed below:
 -Writing a series of unit tests using Mocha and Chai
 -Using different expect() methods to test your code
 
 Project steps to complete:
+
 To complete this project, you must do the following:
 -Write code that passes all the tests in the Qualified assessment in this lesson.
 -Write code that passes all of the requirements outlined below, and submit your GitHub repo link to the Thinkful team in the next lesson.
 
 Requirements to pass:
+
 For your project to pass, all of the following statements must be true. These criteria are reflected in the rubric in the following lesson.
 All tests are passing in Qualified.
 
